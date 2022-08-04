@@ -54,7 +54,6 @@
 
       addrs.push(childAddrs);
     }
-    // log(addrs)
 
     // console.log(
     //   `m/44'/1899'/0'/0/${i}: ${encodeCashAddress(
