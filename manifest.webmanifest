@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Creates a mnemonic with cash addresses derived.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "src/assets/fire.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "bip39-mnemonic",
+  "short_name": "bip39",
+  "start_url": "/index.html"
+}

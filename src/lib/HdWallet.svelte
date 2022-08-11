@@ -14,7 +14,7 @@
     instantiateBIP32Crypto,
     deriveHdPrivateNodeFromSeed,
   } from "@bitauth/libauth";
-  import QR from "./QR.svelte";
+  // import QR from "./QR.svelte";
 
   init();
   let switchValue;
