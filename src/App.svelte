@@ -2,6 +2,7 @@
   const log = console.log;
   import HdWallet from "./lib/HdWallet.svelte";
   import Sign from "./lib/Sign.svelte";
+
   // import Contract from './lib/Contract.svelte';
   import // validateSecp256k1PrivateKey
   "@bitauth/libauth";

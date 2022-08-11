@@ -4,6 +4,7 @@ specifiers:
   '@bitauth/libauth': ^1.19.1
   '@sveltejs/vite-plugin-svelte': ^1.0.1
   '@tsconfig/svelte': ^3.0.0
+  add-to-homescreen: ^3.2.6
   cashc: 0.6.5
   svelte: ^3.49.0
   svelte-adapter-bun: ^0.3.1
@@ -16,6 +17,7 @@ specifiers:
 
 dependencies:
   '@bitauth/libauth': 1.19.1
+  add-to-homescreen: 3.2.6
   cashc: 0.6.5
   vite-plugin-wasm-pack: 0.1.12
 
@@ -129,6 +131,10 @@ packages:
     dependencies:
       '@types/node': 18.6.2
     dev: true
+
+  /add-to-homescreen/3.2.6:
+    resolution: {integrity: sha512-lZAgmg3T1MFEIBUfFGzC9fLnJSYWGccR5WB7mwpDJS04RYW20Edt7yKsSaRaSSAiRlUXi7e0eNPlofMWGzeF3A==}
+    dev: false
 
   /ansi-styles/4.3.0:
     resolution: {integrity: sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==}
